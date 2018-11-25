@@ -13,3 +13,4 @@ $ cd examples
 $ python
 $ import fastfood 
 
+![Fast Food Inital Menu](/examples/fastfood.jpg)
